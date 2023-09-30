@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amulgupta&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="amulgupta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amulgupta&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="amulgupta" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amulgupta&" alt="amulgupta" /></p>
