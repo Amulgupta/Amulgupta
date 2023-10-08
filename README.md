@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amulgupta&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="amulgupta" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amulgupta)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=amulgupta&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
